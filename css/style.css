@@ -36,12 +36,12 @@ h1{
   color: white;
 }
 
-p{
+main>p{
   line-height: 1.5;
   color: #F0F4F8;
 }
 
-p>a{
+main>p>a{
   color: #00D2FF;
 }
 
