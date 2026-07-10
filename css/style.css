@@ -36,8 +36,11 @@ h1{
   color: white;
 }
 
-main>p{
+p{
   line-height: 1.5;
+}
+
+main>p{
   color: #F0F4F8;
 }
 
